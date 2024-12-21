@@ -1,0 +1,5 @@
+# video2audio
+
+This project tackles the challenge of synthesizing accurate speech from silent video, with wide-ranging applications in accessibility, communication, and forensics. By analyzing visual cues such as lip movements and facial expressions, the technology reconstructs synchronized and emotionally nuanced speech, addressing limitations of traditional methods.
+
+The innovation lies in using a diffusion model for audio synthesis, diverging from conventional supervised approaches like CNNs and RNNs. Unlike prior work, this approach focuses on speech generation, leveraging unsupervised learning to reduce reliance on large labeled datasets while enhancing generalization to diverse content. This represents a significant advance in video-to-audio speech synthesis, with transformative potential across multiple domains.
